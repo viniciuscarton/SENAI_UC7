@@ -1,0 +1,29 @@
+[33mcommit 1b566a7e84d62a5e74d3464e3d946d15b11740f7[m[33m ([m[1;36mHEAD -> [m[1;32mexemplo-branch[m[33m)[m
+Author: viniciuscarton <viniciuscarton@outlook.com>
+Date:   Sun Dec 12 16:27:30 2021 -0300
+
+    adicionando o comando git commit
+
+[33mcommit 83891b2345776833e4ede66120298e0cc81a874d[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: viniciuscarton <viniciuscarton@outlook.com>
+Date:   Sun Dec 12 16:13:45 2021 -0300
+
+    adicionando o gitignore
+
+[33mcommit e76b965b22c491ef57412eb43bd695c106ab13e4[m
+Author: viniciuscarton <96020031+viniciuscarton@users.noreply.github.com>
+Date:   Sun Dec 12 16:08:17 2021 -0300
+
+    Create README.md
+
+[33mcommit e776e5dc225159088191255312060341b89150a0[m
+Author: viniciuscarton <viniciuscarton@outlook.com>
+Date:   Sun Dec 12 16:05:36 2021 -0300
+
+    realizando uma alteracao no arquivo versoes.txt
+
+[33mcommit feda0e26735c5277a51b1c6d6da8da6ab6dd7cc4[m
+Author: viniciuscarton <viniciuscarton@outlook.com>
+Date:   Sun Dec 12 15:29:55 2021 -0300
+
+    meu primeiro commit
